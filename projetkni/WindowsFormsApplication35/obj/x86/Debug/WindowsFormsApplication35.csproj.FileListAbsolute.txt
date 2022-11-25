@@ -1,0 +1,60 @@
+G:\modul prog\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+G:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form1.resources
+G:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Properties.Resources.resources
+G:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.GenerateResource.Cache
+G:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+G:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
+G:\modul prog\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+E:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+E:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
+F:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+F:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
+F:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form1.resources
+F:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Properties.Resources.resources
+F:\modul prog\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.GenerateResource.Cache
+F:\modul prog\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+F:\modul prog\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csprojResolveAssemblyReference.cache
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form1.resources
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Properties.Resources.resources
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.GenerateResource.Cache
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+C:\Users\Dark Slayer\Desktop\897\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+E:\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+E:\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
+E:\897\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+E:\897\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+E:\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form1.resources
+E:\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Properties.Resources.resources
+E:\897\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.GenerateResource.Cache
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form1.resources
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Properties.Resources.resources
+C:\Users\skola-CRS\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.GenerateResource.Cache
+D:\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+D:\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
+D:\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+D:\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+D:\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csprojResolveAssemblyReference.cache
+D:\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form1.resources
+D:\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Properties.Resources.resources
+D:\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.GenerateResource.Cache
+D:\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form2.resources
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.AssemblyReference.cache
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form1.resources
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Form2.resources
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.Properties.Resources.resources
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.GenerateResource.cache
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.csproj.CoreCompileInputs.cache
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.exe
+C:\Users\Nelo\Desktop\projetkni\WindowsFormsApplication35\obj\x86\Debug\WindowsFormsApplication35.pdb
